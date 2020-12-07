@@ -49,20 +49,17 @@ h2 {
 #contact-info {
     width: 30%;
     float: left;
+    line-height: 24px;
 }
 
 #contact-info h2 {
     text-align: left;
-    margin-top: 35px;
+    margin-top: 40px;
 }
 
 #contact-info ul {
     text-align: left;
-    font-size: 18px;
-}
-
-#contact-info ul li {
-    margin-bottom: 5px;
+    font-size: 16px;
 }
 
 a {
